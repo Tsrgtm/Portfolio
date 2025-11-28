@@ -1,59 +1,69 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Tusar Gautam | Full Stack Laravel Developer Portfolio
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Table of Contents
+* [1. Overview](#1-overview)
+* [2. Core Technology Stack](#2-core-technology-stack)
+* [3. Featured Projects](#3-featured-projects)
+* [4. Contact Information](#4-contact-information)
 
-## About Laravel
+***
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 1. Overview
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+This repository showcases my work as a **Full Stack Laravel Developer** based in Kathmandu, Nepal. My specialization is in developing robust, scalable web applications utilizing modern PHP frameworks, primarily **Laravel**, and contemporary frontend libraries like **React**. I possess significant experience within the **TALL Stack** ecosystem (Tailwind, Alpine.js, Laravel, Livewire/Filament).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+***
 
-## Learning Laravel
+## 2. Core Technology Stack
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+The following technologies represent my primary tools and areas of expertise:
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | **Laravel**, **PHP**, NodeJS |
+| **Frontend** | **React**, JavaScript, Tailwind CSS |
+| **Database** | MySQL |
+| **Tooling & CMS** | Git, Docker, **Filament PHP**, WordPress |
 
-## Laravel Sponsors
+***
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## 3. Featured Projects
 
-### Premium Partners
+These projects demonstrate my capability across different architectural patterns and project requirements:
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+### MOMO Durbar
 
-## Contributing
+* **Description:** A comprehensive web application demonstrating proficiency in Laravel for complex backend logic and utilizing **Filament PHP** for efficient administrative interfaces.
+* **Tech Stack:** Laravel, PHP, Filament PHP
+* [**View Project**](https://momodurbar.com/)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### Digipal Solutions
 
-## Code of Conduct
+* **Description:** A professional solution showcasing full-stack application development, emphasizing code quality and maintainability within the Laravel framework.
+* **Tech Stack:** Laravel, PHP, Filament PHP
+* [**View Project**](https://digipalsolutions.com.np)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### Nepal 360 News
 
-## Security Vulnerabilities
+* **Description:** A high-performance news portal where a dynamic **React** frontend consumes data from a resilient **Laravel API** backend, demonstrating decoupled architecture skills.
+* **Tech Stack:** React, Laravel, PHP
+* [**View Project**](https://nepal360news.com)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### Aakar Dermatology
 
-## License
+* **Description:** An official website project demonstrating expertise in customizing and maintaining sites built on the **WordPress** platform using PHP.
+* **Tech Stack:** WordPress, PHP
+* [**View Project**](https://aakardermatology.com/)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+***
+
+## 4. Contact Information
+
+For collaboration inquiries or professional opportunities, please use the following contact details:
+
+| Platform | Detail / Link |
+| :--- | :--- |
+| **Professional Website** | [tusargautam.com.np](https://tusargautam.com.np) |
+| **Email** | [mail@tusargautam.com.np](mailto:mail@tusargautam.com.np) |
+| **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/tusar-gautam-452b12293/) |
+| **Location** | Kathmandu, Nepal |
